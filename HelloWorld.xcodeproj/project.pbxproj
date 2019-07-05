@@ -12,6 +12,7 @@
 		659BE7E822CC004B009A418C /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 659BE7E622CC004B009A418C /* MainMenu.xib */; };
 		659BE7F422CC004C009A418C /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659BE7F322CC004C009A418C /* HelloWorldTests.swift */; };
 		659BE7FF22CC004C009A418C /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659BE7FE22CC004C009A418C /* HelloWorldUITests.swift */; };
+		65E7807822CFFE7700201870 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 65E7807722CFFE7700201870 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		659BE7FA22CC004C009A418C /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		659BE7FE22CC004C009A418C /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		659BE80022CC004C009A418C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65E7807722CFFE7700201870 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		659BE7D622CC0049009A418C = {
 			isa = PBXGroup;
 			children = (
+				65E7807722CFFE7700201870 /* README.md */,
 				659BE7E122CC0049009A418C /* HelloWorld */,
 				659BE7F222CC004C009A418C /* HelloWorldTests */,
 				659BE7FD22CC004C009A418C /* HelloWorldUITests */,
@@ -225,6 +228,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65E7807822CFFE7700201870 /* README.md in Resources */,
 				659BE7E522CC004B009A418C /* Assets.xcassets in Resources */,
 				659BE7E822CC004B009A418C /* MainMenu.xib in Resources */,
 			);
